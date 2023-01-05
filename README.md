@@ -9,6 +9,19 @@ Before running this project, make sure you have the following software installed
 * Node.js
 * npm (normally comes with Node.js)
 
+## Features
+
+1. Displays a list of buttons, one for each user in the list
+2. On clicking a button, fetches and displays the data for a single user
+3. Uses a loading indicator to show that the API request is in progress
+
+## Technologies Used
+
+* React
+* Redux
+* Axios
+* Reqres API
+
 ## Running the Project
 To run this project, follow these steps:
 
