@@ -14,11 +14,11 @@ To run this project, follow these steps:
 
 ### Clone the repository:
 
-git clone https://github.com/USERNAME/REPO.git
+git clone https://github.com/nishant8509/React-User-List.git
 
 ### Change into the project directory:
 
-cd REPO
+cd React-User-List
 
 ### Install the dependencies:
 
