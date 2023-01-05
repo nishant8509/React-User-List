@@ -57,4 +57,9 @@ This will create a production-ready build of the application in the build direct
 
 5. The reducers.js file contains a reducer function that updates the store state based on the actions dispatched to the store. The *LOADING_USERS* and *LOADING_USER* actions update the loading field in the store state, which is used to display a loading indicator. The *FETCH_USERS* and *FETCH_USER* actions update the users and user fields in the store state, respectively, with the data received from the API.
 
+## Built With
+* React - A JavaScript library for building user interfaces
+* Redux - A predictable state management library for JavaScript apps
+* axios - A promise-based HTTP client for the browser and Node.js
+
 
