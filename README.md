@@ -35,6 +35,7 @@ This will start the development server and open the application in your default 
 To build the project for production, run the following command:
 
 npm run build
+
 This will create a production-ready build of the application in the build directory. You can then serve the application using a static file server (e.g. serve) or deploy it to a hosting platform.
 
 ## Description
