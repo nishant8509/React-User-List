@@ -9,6 +9,34 @@ Before running this project, make sure you have the following software installed
 * Node.js
 * npm (normally comes with Node.js)
 
+## Running the Project
+To run this project, follow these steps:
+
+### Clone the repository:
+
+git clone https://github.com/USERNAME/REPO.git
+
+### Change into the project directory:
+
+cd REPO
+
+### Install the dependencies:
+
+npm install
+
+### Start the development server:
+
+npm start
+
+This will start the development server and open the application in your default browser. Any changes you make to the code will be automatically reflected in the browser.
+
+## Deployment
+
+To build the project for production, run the following command:
+
+npm run build
+This will create a production-ready build of the application in the build directory. You can then serve the application using a static file server (e.g. serve) or deploy it to a hosting platform.
+
 ## Description
 
 * `public/index.html` is the root HTML file for the application.
